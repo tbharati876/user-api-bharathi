@@ -1,4 +1,4 @@
-# User API
+# User API - Go Backend Task
 
 A RESTful User Management API built using Go, Fiber, PostgreSQL, and SQLC.
 
